@@ -1,0 +1,99 @@
+
+*{padding: 0;
+margin: 0;}
+
+body{
+    background-color: hsl(216deg 20% 95.1%);
+}
+/*start header section  */
+header{
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 10%;
+    
+}
+/* start right section  */
+.right{
+    float: right;
+    margin-right: 33px;
+
+}
+img{
+    width: 355px;
+    margin-left: 119px;
+    display: inline-block;
+}
+.right h2{
+    font-size: 28px;
+    margin-right: 74px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+/* end right section  */
+/* start left section  */
+.left{
+    float: left;
+
+}
+/* start form section  */
+.left form{
+    width: 400px;
+    height: 350px;
+    border-radius: 6px;
+    text-align: center;
+    background-color: hsl(0deg 0% 100%);
+    margin-left: 55px;
+    box-shadow: 0px 0px 10px 6px hsl(216deg 8.2% 88.04%) ;
+    
+}
+.left form input{
+    width: 80%;
+    padding: 15px 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+    border: 1px solid hsl(216deg 7.94% 87.65%);
+    font-size: 17px;
+}
+.left form .button-1{
+    width: 366px;
+    height: 51px;
+    font-size: 24px;
+    margin-top: 15px;
+    margin-bottom: 11px;
+    background-color: hsl(213.85deg 89.34% 52.16%);
+    border-radius: 7px;
+    color: white;
+    border: none;
+    
+}
+.left form .button-2{
+    width: 150px;
+    height: 50px;
+    font-size: 23px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: hsl(109.79deg 62.67% 44.12%);
+    border-radius: 7px;
+    color: white;
+    border: none;
+    margin-top: 17px;
+}
+.left form a{
+    margin-bottom: 20px;
+    margin-top: 10px;
+    display: block;
+    color: hsl(213.85deg 89.34% 52.16%);
+    
+}
+/* end form section  */
+h3{
+    padding-top: 30px;
+    margin-left: 121px;
+    font-size: 17px;
+    font-weight: 100;
+}
+span{
+    font-weight:800;
+}
+/* end left section  */
+/*end header section  */
